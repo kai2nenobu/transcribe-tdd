@@ -6,7 +6,8 @@
 		"dockerfile": "Dockerfile",
 		"args": {
 			"INSTALL_MAVEN": "false",
-			"INSTALL_GRADLE": "false",
+			"INSTALL_GRADLE": "true",
+			"GRADLE_VERSION": "4.2",
 			"INSTALL_NODE": "false",
 			"NODE_VERSION": "lts/*"
 		}
