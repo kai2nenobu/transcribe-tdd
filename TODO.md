@@ -7,10 +7,10 @@
 - `Money` の丸め処理どうする？
 - ~~equals()~~
 - hashCode()
-- null` との等価性比較
+- `null` との等価性比較
 - 他のオブジェクトとの等価性比較
 - ~~5CHF * 2 = 10CHF~~
-- `Dollar` と `Franc` の重複
+- **`Dollar` と `Franc` の重複**
 - ~~`equals` の一般化~~
 - `times` の一般化
 - ~~`Franc` と `Dollar` を比較する~~
